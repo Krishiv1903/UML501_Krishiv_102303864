@@ -6,8 +6,8 @@
 This repository contains all the assignment submissions for the UML501 Machine Learning course. Each file is a Jupyter Notebook (.ipynb) corresponding to one assignment, containing problem statements, code solutions and explanation of results.  
 
 ## 🚀 Contents  
-| Assignment | File | Description |
-|------------|------|-------------|
+| Assignment | File |
+|------------|------|
 | Assignment 01 | `Assignment-01.ipynb` |
 | Assignment 02 | `Assignment-02.ipynb` |
 | Assignment 03 | `Assignment-03.ipynb` |
